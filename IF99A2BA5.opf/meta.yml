@@ -1,0 +1,24 @@
+id: IF99A2BA5
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:13:33.170408'
+last_modified: '2022-06-15T20:13:33.170418'
+parser: null
+source_metadata:
+  title: Tilopa
+  language: en
+  description: 'Texts by and about the great siddha Tilopa (ti lo pa, 988–1069):'
+  volume:
+    f04BB:
+      title: The Ganges Mahāmudrā Instructions
+      base_file: f04BB.txt
+      order: 1
+      parent: Advice
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
